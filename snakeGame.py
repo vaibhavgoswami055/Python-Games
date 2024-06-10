@@ -6,7 +6,7 @@ import random
 
 delay = 0.1
 
-#Score
+#Scoref
 score =0
 high_score =0
 
